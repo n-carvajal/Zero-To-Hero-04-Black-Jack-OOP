@@ -1,6 +1,6 @@
 # Hero To Zero
 
-## Project 4: 21 Black Jack
+## Project 4: Black Jack (21)
 
 Black Jack (also known as 21) is a very popular casino game played with one or multiple decks of cards.
 The aim of the game is to try and beat the dealer by getting a hand value as close to 21 as possible without going over 21.
